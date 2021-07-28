@@ -15,7 +15,7 @@ For a description of what scouting is, please view the [SCOUTING.md](SCOUTING.md
 2. Clone the repo:
 
 ```
-git clone git@github.com:Pigmice2733/peregrine-backend.git
+git clone git@github.com:npmanos/peregrine-backend.git
 ```
 
 4. Change directory to the repo root:
